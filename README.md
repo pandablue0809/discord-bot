@@ -1,4 +1,4 @@
-<H1>Yamada Kenji bot</H1>
+<H1>Yamada Kenji</H1>
 
 <h2>MULTIPURPOSE DISCORD BOT</h2>
 
