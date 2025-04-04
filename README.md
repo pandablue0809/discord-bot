@@ -1,4 +1,3 @@
-<H1>Yamada Kenji</H1>
 
 <h2>MULTIPURPOSE DISCORD BOT</h2>
 
